@@ -11,7 +11,7 @@
 <h1>Technical Stack</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,nextjs,fastapi,docker,mongodb,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,nextjs,fastapi,docker,mongodb,github,git,vercel,shopify,wordpress,vscode&perline=10" alt="Technical stack icons"/>
 </p>
 
 <p align="center">
