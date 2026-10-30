@@ -11,12 +11,12 @@
 <h1>Technical Stack</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,tensorflow,opencv,sklearn,fastapi,docker,mongodb,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,nextjs,fastapi,docker,mongodb,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%2F%20CV-YOLOv8%20%7C%20OpenCV%20%7C%20Grad--CAM%20%7C%20Roboflow-0f172a?style=flat-square&labelColor=111827&color=38bdf8" alt="AI CV"/>
-  <img src="https://img.shields.io/badge/NLP%20%2F%20LLM-Hugging%20Face%20%7C%20XLM--RoBERTa%20%7C%20OpenAI%20%7C%20Ollama-0f172a?style=flat-square&labelColor=111827&color=06b6d4" alt="NLP LLM"/>
+ 
   <img src="https://img.shields.io/badge/Backend%20%2F%20Data-FastAPI%20%7C%20MongoDB%20%7C%20RabbitMQ%20%7C%20JWT-0f172a?style=flat-square&labelColor=111827&color=22c55e" alt="Backend Data"/>
   <img src="https://img.shields.io/badge/Automation-Selenium%20%7C%20Playwright%20%7C%20Docker%20%7C%20Pytest-0f172a?style=flat-square&labelColor=111827&color=f97316" alt="Automation"/>
   <img src="https://img.shields.io/badge/Reporting-Matplotlib%20%7C%20Plotly%20%7C%20fpdf2%20%7C%20ReportLab-0f172a?style=flat-square&labelColor=111827&color=8b5cf6" alt="Reporting"/>
